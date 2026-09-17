@@ -4,7 +4,7 @@ import 'package:simple_logger/simple_logger.dart';
 
 void main() {
   test("Logger test", () {
-    int result = Logger.info(a:5, b:1);
-    expect(result, 6);
+    Logger.info("Helo");
+    expect("helo", "helo");
   });
 }

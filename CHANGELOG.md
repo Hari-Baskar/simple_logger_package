@@ -1,3 +1,6 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release.
+- Added info logging.
+- Added warning logging.
+- Added error logging.
